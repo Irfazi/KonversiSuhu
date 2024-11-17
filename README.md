@@ -246,7 +246,7 @@ private void setupDocumentListener(){
 ~
 
 # Hasil Gambar Project Ketika di Run
-![]().
+![](https://github.com/Irfazi/KonversiSuhu/blob/main/Screenshot%202024-11-17%20172546.png).
 ## Indikator Penilaian:
 
 | No  | Komponen         |  Persentase  |
